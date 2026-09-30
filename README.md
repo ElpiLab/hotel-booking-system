@@ -35,4 +35,4 @@ components or other application layers.
 ## Context
 
 Developed during the B.Sc. Business Information Technology program at
-FHNW, Spring Semester 2026.
+FHNW
